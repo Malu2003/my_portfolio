@@ -55,5 +55,5 @@ export class AppComponent {
   allSkills = [
     'Angular', 'TypeScript', 'Node.js', 'Express','Machine Learning','MySQL',
      'PostgreSQL', 'HTML', 'CSS', 'Git','Python', 'C', 'Django', 'REST APIs', 'Figma'
-  ];
+  ]
 }
